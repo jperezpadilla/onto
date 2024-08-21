@@ -1,0 +1,13 @@
+*.pyc
+*.db
+*.rw
+.svn
+.cvs
+log/
+tmp/
+.venv/
+
+.project
+.pydevproject
+.settings/
+
